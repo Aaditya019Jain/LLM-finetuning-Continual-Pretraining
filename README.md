@@ -1,2 +1,3 @@
 # LLM-finetuning-Continual-Pretraining
-Here i am going to add scripts for LLM continual Pretraining and LLM finetuning
+
+This repository containes the latext compatible scripts for Continual Pre-training, fintuning of LLMs using Deep Speed to run them on multiple GPUs and if needed multiple nodes.
